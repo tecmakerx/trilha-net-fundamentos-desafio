@@ -14,6 +14,8 @@ namespace DesafioFundamentos.Models
             this.precoPorHora = precoPorHora;
         }
 
+
+
         public void AdicionarVeiculo()
         {
             //Implementado!!!
